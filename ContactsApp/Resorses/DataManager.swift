@@ -5,7 +5,7 @@
 //  Created by Валерия Смецкая on 22.03.2022.
 //
 
-let name = [
+let names = [
     "John",
     "Sharon",
     "Aaron",
@@ -18,7 +18,7 @@ let name = [
     "Tim"
 ]
 
-let surname = [
+let surnames = [
     "Murphy",
     "Jankin",
     "Williams",
@@ -31,7 +31,7 @@ let surname = [
     "Cook"
 ]
 
-let phoneNumber = [
+let phoneNumbers = [
     145684833,
     125335554,
     385675556,
@@ -44,7 +44,7 @@ let phoneNumber = [
     756669119
 ]
 
-let email = [
+let emails = [
     "swift@gmail.com",
     "apple@gmail.com",
     "my@gmail.com",
