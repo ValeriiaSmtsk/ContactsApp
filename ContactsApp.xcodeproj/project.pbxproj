@@ -14,7 +14,7 @@
 		5BC3670927E92E7D0092E8C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BC3670727E92E7D0092E8C6 /* LaunchScreen.storyboard */; };
 		5BC3671127E930A60092E8C6 /* ContactsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC3671027E930A60092E8C6 /* ContactsListViewController.swift */; };
 		5BC3671327E939AF0092E8C6 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC3671227E939AF0092E8C6 /* DataManager.swift */; };
-		5BC3671527E93EBE0092E8C6 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC3671427E93EBE0092E8C6 /* Contact.swift */; };
+		5BC3671527E93EBE0092E8C6 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC3671427E93EBE0092E8C6 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		5BC3670A27E92E7D0092E8C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BC3671027E930A60092E8C6 /* ContactsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsListViewController.swift; sourceTree = "<group>"; };
 		5BC3671227E939AF0092E8C6 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
-		5BC3671427E93EBE0092E8C6 /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
+		5BC3671427E93EBE0092E8C6 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 		5BC3671727E940570092E8C6 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				5BC3671427E93EBE0092E8C6 /* Contact.swift */,
+				5BC3671427E93EBE0092E8C6 /* Person.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -186,7 +186,7 @@
 			files = (
 				5BC3671127E930A60092E8C6 /* ContactsListViewController.swift in Sources */,
 				5BC3671327E939AF0092E8C6 /* DataManager.swift in Sources */,
-				5BC3671527E93EBE0092E8C6 /* Contact.swift in Sources */,
+				5BC3671527E93EBE0092E8C6 /* Person.swift in Sources */,
 				5BC366FD27E92E7C0092E8C6 /* AppDelegate.swift in Sources */,
 				5BC366FF27E92E7C0092E8C6 /* SceneDelegate.swift in Sources */,
 			);
